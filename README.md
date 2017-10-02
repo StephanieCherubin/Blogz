@@ -1,0 +1,2 @@
+# Blogz
+This project expands upon my Get It Done, User Signup and Build a Blog assignments by introducing user accounts, so that each blog post is associated with a particular user, and users must be logged in to create posts. In the future, I will turn this into a guest list for an event in one version, a graduation year book with comments left to the owner in another version, and a vacation experience comment board in the last version.
